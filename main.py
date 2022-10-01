@@ -182,5 +182,6 @@ class Game:
                 print("Dealer wins. :(")
         return False
 
+# execute the game
 g = Game()
 g.play()
