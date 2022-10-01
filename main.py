@@ -35,3 +35,4 @@ else:
 rank_dict = {"rank": rank, "value": value}
 
 print(rank_dict["rank"], rank_dict["value"])
+print("Test1")
